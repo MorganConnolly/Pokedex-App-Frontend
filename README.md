@@ -18,7 +18,7 @@
 6. Scan the QR code to open the app on mobile or follow the CLI instructions for running the emulator
 
 ## Video Demo
-<video src="https://github.com/user-attachments/assets/a17ef30f-bc39-45f7-9eac-840fcece1050" width="500" controls></video>
+<video src="https://github.com/user-attachments/assets/c07a04f9-84a4-4e14-8250-fa7b56b6a7fc" width="500" controls></video>
 
 ## Screenshots
 <table>
