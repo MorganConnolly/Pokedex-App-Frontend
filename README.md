@@ -14,10 +14,11 @@
 1. Install node.js for npm: https://nodejs.org/en/download
 2. Clone the repo: https://github.com/MorganConnolly/Pokedex-App-Frontend
 3. Install dependancies: npm install
-4. Start the project using Expo CLI: npx expo start
-5. Install the "Expo Go" app on mobile or set up an iPhone/android emulator
-6. Scan the QR code to open the app on mobile or follow the CLI instructions for running the emulator
-7. Setup backend: https://github.com/MorganConnolly/Pokedex-App-Backend
+4. Setup backend: https://github.com/MorganConnolly/Pokedex-App-Backend
+5. Create .env with API address: EXPO_PUBLIC_API='[ip]/api/'
+6. Start the project using Expo CLI: npx expo start
+7. Install the "Expo Go" app on mobile or set up an iPhone/android emulator
+8. Scan the QR code to open the app on mobile or follow the CLI instructions for running the emulator
 
 ## Video Demo
 <video src="https://github.com/user-attachments/assets/c07a04f9-84a4-4e14-8250-fa7b56b6a7fc" width="500" controls></video>
