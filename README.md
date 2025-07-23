@@ -11,7 +11,7 @@
 
 ## Setup
 1. Install node.js for npm: https://nodejs.org/en/download
-2. Clone the repo: https://gitlab.com/bluefuse-systems/starters/pokemon-app
+2. Clone the repo: https://github.com/MorganConnolly/Pokedex-App-Frontend
 3. Install dependancies: npm install
 4. Start the project using Expo CLI: npx expo start
 5. Install the "Expo Go" app on mobile or set up an iPhone/android emulator
