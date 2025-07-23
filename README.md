@@ -8,7 +8,7 @@
 - Node.js for running js on the development server & node package manager
 - CSS & JS for styling and user interaction
 - The PokeAPI: https://pokeapi.co/
-- Laravel, php, etc for backend: https://github.com/MorganConnolly/Pokedex-App-Backend
+- Laravel, PHP, etc for backend: https://github.com/MorganConnolly/Pokedex-App-Backend
 
 ## Setup
 1. Install node.js for npm: https://nodejs.org/en/download
