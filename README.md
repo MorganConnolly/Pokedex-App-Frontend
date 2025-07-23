@@ -8,6 +8,7 @@
 - Node.js for running js on the development server & node package manager
 - CSS & JS for styling and user interaction
 - The PokeAPI: https://pokeapi.co/
+- Laravel, php, etc for backend: https://github.com/MorganConnolly/Pokedex-App-Backend
 
 ## Setup
 1. Install node.js for npm: https://nodejs.org/en/download
@@ -16,6 +17,7 @@
 4. Start the project using Expo CLI: npx expo start
 5. Install the "Expo Go" app on mobile or set up an iPhone/android emulator
 6. Scan the QR code to open the app on mobile or follow the CLI instructions for running the emulator
+7. Setup backend: https://github.com/MorganConnolly/Pokedex-App-Backend
 
 ## Video Demo
 <video src="https://github.com/user-attachments/assets/c07a04f9-84a4-4e14-8250-fa7b56b6a7fc" width="500" controls></video>
