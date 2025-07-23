@@ -1,4 +1,4 @@
-# Pokedex App Frontend
+# Pokedex App React Native Frontend
 
 ## Tools Used
 - React Native for front-end programming w/ Expo to assist in building and testing
